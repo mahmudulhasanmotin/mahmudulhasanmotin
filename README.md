@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudulhasanmotin&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudulhasanmotin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/motinsarker11" target="blank"><img src="https://img.shields.io/twitter/follow/motinsarker11?logo=twitter&style=for-the-badge" alt="motinsarker11" /></a> </p>
+<p align="left"> <a href="https://x.com/motin_sarker_" target="blank"><img src="https://img.shields.io/twitter/follow/motinsarker11?logo=twitter&style=for-the-badge" alt="motinsarker11" /></a> </p>
 
 - 🌱 I’m currently learning **Complete Web Development Course With Jhankar Mahbub**
 
