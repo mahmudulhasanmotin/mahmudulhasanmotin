@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/motinsarker11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="motinsarker11" height="30" width="40" /></a>
-<a href="https://fb.com/mahmudulhasanmotin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudulhasanmotin00" height="30" width="40" /></a>
-<a href="https://instagram.com/mahmudulhasanmotin00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudulhasanmotin00/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@itsmotinempire" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsmotinempire" height="30" width="40" /></a>
+<a href="https://x.com/motin_sarker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="motinsarker11" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahmudulhasanmotin3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudulhasanmotin00" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mahmudulhasanmotin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudulhasanmotin00/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@itsmotinempire0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsmotinempire" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
