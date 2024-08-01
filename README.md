@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/WgpHMBb/1714332498699.jpg")
+(https://i.ibb.co/WgpHMBb/1714332498699.jpg")
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan Motin</h1>
 <h3 align="center">I am 9th batch student of programming hero's web development course</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codding">
