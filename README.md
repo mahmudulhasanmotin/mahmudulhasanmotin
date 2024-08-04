@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/motin_sarker)
 
-- 🌱 I’m currently learning **Complete Web Development Course With Jhankar Mahbub**
+- 🌱 I’m currently learning **Node JS and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://motin-web.netlify.app/](https://motin-web.netlify.app/)
 
