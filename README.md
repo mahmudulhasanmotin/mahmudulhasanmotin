@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Mahmudul Hasan Motin
 #### A Front-end web developer from Bangladesh
-![A Front-end web developer from Bangladesh](<img src="https://i.ibb.co/qd6MJph/1714332498699.jpg" alt="1714332498699" border="0">)
+![A Front-end web developer from Bangladesh](https://pbs.twimg.com/profile_banners/1743599645388148736/1714334528/1500x500)
 
 I'm Mahmudul Hasan Motin, a passionate front-end web developer with 1 year of experience in crafting stunning and user-friendly websites. Whether you're an individual, a startup, or a business, I'm here to bring your digital vision to life. HTML5, CSS3, JavaScript, and React: I'm proficient in the latest technologies to ensure your website is cutting-edge and efficient.
 
 Skills: HTML, CSS3, Tailwind, Bootstrap, JavaScript, React JS, Next JS, Angular, Node JS, Mongodb, Figma, Firebase
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Node JS and Mongodb 
+- 🌱 I’m currently learning Node JS and MongoDB 
 - 👯 I’m looking to collaborate on Your projects 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: Fiverr and social network 
